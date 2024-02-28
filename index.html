@@ -10,13 +10,31 @@
   <body>
       <header>
         <h1>Test Your Knowledge</h1>
-        <p>Can you complete the Harry Potter quote before time runs out?</p>
+        <p>Can you answer all the questions before time runs out?</p>
       </header>
 
       <!-- Navigation Bar with Top Score Link -->
       <nav>
       <a href="#">High Scores</a>
       </nav>
+
+      <div class="container">
+        <h1>Coding Quiz</h1>
+        <div id="quiz-container">
+          <button id="start-btn">Start Quiz</button>
+          <div id="question-container" class="hide">
+            <p id="questions"></p>
+            <div id="answer-btn" class="buttons"></div>
+          </div>
+        </div>
+        <div id="results" class="hide">
+          <h2>Your Final Score</h2>
+          <p id="final-score"></p>
+          <label for="initials">Enter Your Initials</label>
+          <input type="text" id="initials">
+          <button id="submit-btn">Submit</button>
+        </div>
+      </div>
 
     <script src="script.js"></script>
   </body>
