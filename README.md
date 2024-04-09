@@ -12,10 +12,10 @@ N/A
 
 Click "start quiz" and select your answers to each coding-related question before the time runs out. Once the quiz is complete or time runs out, type your initials to add your score to the scoreboard. View all high scores by clicking the "high scores" section on the page. 
 
-To view the website, click this link: http://127.0.0.1:5501/02-Challenge/Develop/index.html  
+To view the website, click this link: ***
 <!-- replace with correct link -->
 
-<img width="1263" alt="screenshot" src="https://github.com/gjudilla/week-one-accessibility-challenge/assets/148306966/69219445-08cf-4f99-be62-8025de1ac5e8">
+<img width="1263" alt="screenshot" src="***">
 <!-- replace with correct screenshot -->
 
 
